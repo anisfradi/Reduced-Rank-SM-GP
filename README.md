@@ -1,8 +1,6 @@
 # Reduced-rank-SM-GP
 
-# MATLAB Demo: Reduced-rank SM-GP
-
-This MATLAB demo provides an implementation of the "Reduced Rank Spectral Mixtures Gaussian Processes" method 
+This MATLAB code provides an implementation of the "Reduced Rank Spectral Mixtures Gaussian Processes" method 
 
 ## Table of Contents
 
