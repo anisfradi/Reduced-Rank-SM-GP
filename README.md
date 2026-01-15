@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, feedback, or suggestions regarding this demo, please feel free to contact the project maintainer:
 
-- Email: anis.fradi@uca.fr
+- Email: xxx
